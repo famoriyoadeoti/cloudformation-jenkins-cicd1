@@ -1,1 +1,1 @@
-# cloudformation-jenkins-cicd1
+# CloudFormation Jenkins CI/CD Pipeline
